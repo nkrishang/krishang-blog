@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-import opera from "./assets/operatwo_jikang.jpg";
+import pic from "./assets/banner.jpg";
 
 export default function App() {
 
@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <div style={{ paddingTop: "40px" }}>
         <img
-          src={opera}
+          src={pic}
           alt="article_pic"
           style={{ height: "400px", width: "auto" }}
         />
