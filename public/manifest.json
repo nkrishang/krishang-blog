@@ -1,24 +1,18 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Krishang",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "profilepic.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "profilepic.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://krishang.me",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
